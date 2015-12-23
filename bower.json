@@ -1,0 +1,21 @@
+{
+  "name": "live-reload",
+  "version": "1.0.0",
+  "authors": [
+    "Peter Fotinis <peter@peterfotinis.com>"
+  ],
+  "description": "Inject live-reload JavaScript. See https://www.npmjs.com/package/live-reload for server",
+  "main": "livereload.js",
+  "keywords": [
+    "live",
+    "reload"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
